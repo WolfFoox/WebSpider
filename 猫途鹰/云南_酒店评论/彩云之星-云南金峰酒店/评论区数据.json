@@ -1,0 +1,1604 @@
+{
+    "responseStatus": null,
+    "pageInfo": {
+        "num": 1,
+        "size": 10,
+        "total": 40,
+        "hasNext": true,
+        "realTotal": 40
+    },
+    "details": [
+        {
+            "userReviewId": "106364322",
+            "userId": "A21C0C8E4FBB3BCC6E39C5ADA88328C6",
+            "memberInfo": {
+                "userId": "A21C0C8E4FBB3BCC6E39C5ADA88328C6",
+                "rating": 0,
+                "username": "Wanderer11103364331",
+                "displayName": "巴拉拉能量",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y0y12000apwfq8v5565_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y0y12000apwfq8v5565_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2013",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 2,
+                        "percent": 0.01,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 21,
+                        "percent": 0.1,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 177,
+                        "percent": 0.86,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 7,
+                        "percent": 0.03,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "还可以",
+            "content": "酒店的地理位置比较不错的，旁边有家乐福超市，百货商场，买东西还挺方便的，房间的大小挺合适的，安全性也比较高，住起来感觉很温馨的，隔音效果不是很好，会感觉有一些小吵，早餐的样式不是很多，味道也一般啦。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2013年01月",
+            "tripType": 1,
+            "tripTypeString": "商务行",
+            "publishDate": "2013年08月07日",
+            "publicDeviceType": 2,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:25:21",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 3.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 3.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2013-08-06 09:26:59",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r106364322-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD0xMDYzNjQzMjI=&type=5",
+            "recommendTypes": null,
+            "attribution": "山东",
+            "attributionUrl": "Tourism-g297455-Shandong-Vacations.html"
+        },
+        {
+            "userReviewId": "93055804",
+            "userId": "8CD6D26FDA6E40A386B6CB428DB86D5B",
+            "memberInfo": {
+                "userId": "8CD6D26FDA6E40A386B6CB428DB86D5B",
+                "rating": 0,
+                "username": "冰激凌丫头",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y2k12000apvk5cz4BEA_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y2k12000apvk5cz4BEA_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2013",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 0.5,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 0.5,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "服务效率高，房间光线好",
+            "content": "我们去云南游玩的第一站就是昆明，昆明地方不大，这家酒店也是网上提前就帮我们订好的，后来放了行李出来逛的时候，发现地理位置不错，离超市和吃东西的地方都不远，而且那边打车的价格也比无锡要便宜，酒店的卫生还是挺好的，应该经常接待旅行团吧，很有经验的样子，前台办事效率很高，一会我们就拿到钥匙进房间了，房间很宽敞，有窗户把窗帘拉开，房间里的光线很好。床单枕套，卫生间都很干净，我觉得旅行社安排下这样的价格和酒店的配套设施还是很不错的。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2012年12月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2013年04月11日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:24:33",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 3.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 5.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2013-04-09 19:10:30",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r93055804-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD05MzA1NTgwNA==&type=5",
+            "recommendTypes": null,
+            "attribution": "江苏",
+            "attributionUrl": "Tourism-g297441-Jiangsu-Vacations.html"
+        },
+        {
+            "userReviewId": "52602538",
+            "userId": "49BC7BCACAD41A40976F126F8324AE70",
+            "memberInfo": {
+                "userId": "49BC7BCACAD41A40976F126F8324AE70",
+                "rating": 0,
+                "username": "83240470",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y2q12000aq9knzh7784_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y2q12000aq9knzh7784_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.5,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 0.5,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "购物挺方便",
+            "content": "旁边就有家乐福，购物挺方便的，小商场挺多的。酒店里面是可以吃饭的嘛，早餐要另外加钱的。服务员比三叶饭店好多了，有什么需要的话能及时的给提供，办理入住手续时前台的服务效率挺快的，态度也挺热情的。房间的卫生也是好的，房间内的装修风格有点像欧式的那种，床单和被罩是白色的，电视、沙发、衣柜都有的，地板是铺的地毯，地毯也干净，隔音也挺好的，没像三叶那边吵，楼道有人说话也听不见，房间的空间大小差不多，十多平是有的。性价比都差不多了，这个价格是可以接受的，在昆明这样差不多的房间都是这个价，床挺舒服的，床是软的。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年05月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年08月31日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:22:05",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2011-08-31 10:02:43",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r52602538-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD01MjYwMjUzOA==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "50532589",
+            "userId": "2BFB12EFE3333414CAD19CB1C88AEED4",
+            "memberInfo": {
+                "userId": "2BFB12EFE3333414CAD19CB1C88AEED4",
+                "rating": 0,
+                "username": "28804434",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3i12000aq9kp7x9D1C_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3i12000aq9kp7x9D1C_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 2,
+                        "percent": 0.67,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 0.33,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 5,
+            "title": "地理位置比较好的",
+            "content": "这是旅行社推荐的酒店，我觉得他家的那些服务还有餐点以及房间的装修我都比较喜欢的，我们是7点半的飞机，当时我们的手机又没电，也没有开机，他们还上去叫了我们的门，来提醒我们，因为我们都不喜欢起早，我们这边的人都习惯懒一点，结果起来的时候已经是10点过了，没有吃到他家的早点，这里房间的装修也还是比较大众一点的那种，我喜欢他家那个洗脸的脸盆，比较大，感觉比较舒服，酒店的价格从他的配套来说还可以接受，他的地理位置还是比较好的，如果去那边的正义路买衣服之类的，去百货商场都比较好，比较近，周边的配套挺齐全的，交通也便利。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年08月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年07月17日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:21:47",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 5.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 5.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 5.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 5.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2011-07-17 11:41:00",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r50532589-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD01MDUzMjU4OQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "49060645",
+            "userId": "253909BE8C3CC762E85D29DD56015550",
+            "memberInfo": {
+                "userId": "253909BE8C3CC762E85D29DD56015550",
+                "rating": 0,
+                "username": "rainy0927",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y0y12000apwfq8v5565_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y0y12000apwfq8v5565_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 1.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 5,
+            "title": "很舒服",
+            "content": "酒店环境很不错，也很干净；晚上也很安静。不过就是没有空调，怕热的人可能接受不了。不过昆明也没什么很热的机会。早上起来还有自助早餐，很不错的。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年08月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年06月21日",
+            "publicDeviceType": 2,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:21:02",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 5.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 5.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 5.0
+                }
+            ],
+            "voteCount": 1,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2011-06-20 20:18:43",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r49060645-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00OTA2MDY0NQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "陕西",
+            "attributionUrl": "Tourism-g498181-Shaanxi-Vacations.html"
+        },
+        {
+            "userReviewId": "48432836",
+            "userId": "0D00A59BCDA4E76651A4B6C48033349C",
+            "memberInfo": {
+                "userId": "0D00A59BCDA4E76651A4B6C48033349C",
+                "rating": 0,
+                "username": "80333492",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3n12000aq9ku6d18D1_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3n12000aq9ku6d18D1_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "酒店还可以",
+            "content": "这个地方有一个麻烦就是它刷卡付帐的话都是不能退的，付房费如果刷卡就不能退，还有就是它的房间不够大，经常出去玩的其实很简单，就是干净卫生，然后安全就好了，这个酒店这些都没问题，如果有问题我也不会住，卫生的标准最主要就是床铺要干净，然后就是房间的卫生，包括整个外围的大厅的走道呀，最主要的就是床铺要经常洗经常换。安全也还不错，第一个就是整个出入口都有人，然后就是包括摄像头呀，然后就是房间的门、安全锁等等。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2011年01月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年05月29日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:20:38",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2011-05-29 07:59:04",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r48432836-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00ODQzMjgzNg==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "43372853",
+            "userId": "5003FE99AD09702356C8D9D248503A4D",
+            "memberInfo": {
+                "userId": "5003FE99AD09702356C8D9D248503A4D",
+                "rating": 0,
+                "username": "Gedanmo",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y6y12000aq9kmpj0C74_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y6y12000aq9kmpj0C74_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 2,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "挺舒适",
+            "content": "虽然我睡不习惯陌生床，但是这家酒店给我的感觉还可以，挺舒适，温暖的，设施也还挺齐全，环境也挺安静，总体感觉真的不错。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年04月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年12月31日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:16:46",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 5.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2010-12-30 11:05:30",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r43372853-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00MzM3Mjg1Mw==&type=5",
+            "recommendTypes": null,
+            "attribution": "广东",
+            "attributionUrl": "Tourism-g297411-Guangdong-Vacations.html"
+        },
+        {
+            "userReviewId": "42562173",
+            "userId": "13573DFEB0BE8C8730D72A3A5424CCA0",
+            "memberInfo": {
+                "userId": "13573DFEB0BE8C8730D72A3A5424CCA0",
+                "rating": 0,
+                "username": "54242200",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y5g12000aq9ku6n0070_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y5g12000aq9ku6n0070_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 1,
+                        "percent": 0.2,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.2,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 3,
+                        "percent": 0.6,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 3,
+            "title": "床比较窄，比较拥挤，卫生一般",
+            "content": "他就属于一个老的三星级酒店，整体服务呢都还可以，但是它的房型比较小，床比较窄，属于0.9米宽的床，反正基本上不会大于大于1米，所以住的比较拥挤。墙上贴的全是壁纸，暗乳黄色的，酒店的卫生条件多多少少都有点缺点，隔音效果，住在临街的话隔音效果不好，如果住在阴面的话，感觉都还可以，设施挺齐全的。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年03月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年09月25日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:15:48",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 3.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 3.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 3.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 3.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 3.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2010-09-25 08:00:00",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r42562173-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00MjU2MjE3Mw==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "41617622",
+            "userId": "BED19FEBADE7135A70313E0BDFE43105",
+            "memberInfo": {
+                "userId": "BED19FEBADE7135A70313E0BDFE43105",
+                "rating": 0,
+                "username": "lcy0129",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y5812000apfb7z9030D_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y5812000apfb7z9030D_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.33,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 2,
+                        "percent": 0.67,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "尽量满足需求",
+            "content": "昆明本来就不大，位置还不错，属于中心地带，交通比较方便，而且他们的价格比较合适。酒店里面比较一般，大厅装修方面挺简单的，设施方面不行，他们房间不能够上网，我们工作需要网络，室内都没有提供网络，然后只好到公司上网。不过前台旁边有两台电脑可以免费上网，主要是房间里面没有，感觉不太方便。服务人员的态度还不错，比较热情，有什么事情和他们说，然后都会尽量地满足需求。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年06月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年08月15日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:14:57",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 3.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2010-08-15 08:00:00",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r41617622-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00MTYxNzYyMg==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "39684545",
+            "userId": "A8477FECE8FF8D231540159F6146575E",
+            "memberInfo": {
+                "userId": "A8477FECE8FF8D231540159F6146575E",
+                "rating": 0,
+                "username": "dayutazu",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "largeHeight": null,
+                "largeWeight": null,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "smallHeight": 150,
+                "smallWeight": 150,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.14,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 5,
+                        "percent": 0.71,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 0.14,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1212546,
+                "rating": "3.9",
+                "reviewCount": "30",
+                "name": "彩云之星-云南金峰酒店",
+                "cityId": 298558,
+                "cityName": "昆明市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "650051 云南省 昆明市 盘龙区人民东路(交三桥)48号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html"
+            },
+            "rating": 4,
+            "title": "快捷的酒店",
+            "content": "酒店位置真的很好，在主干道上去哪里都方便，购物也方便\r\n特别是房间，真的很宽敞，豪华房分会客厅和卧房，在这样房间里住宿，心情很好，没有压抑感。\r\n在就是它的卫生间，宽敞又整洁，比一般商务酒店的小小卫生间真的强百倍\r\n早晨还提供早餐，当然餐品种类不多\r\n服务方面，有些员工不说普通话，交流起来还是有障碍的，这是一点不足",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2009年12月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年08月03日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:13:33",
+            "photos": [
+                {
+                    "thumbnail": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_60_60_Q90.jpg",
+                        "width": 60,
+                        "height": 60
+                    },
+                    "small": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_120_120_Q90.jpg",
+                        "width": 120,
+                        "height": 120
+                    },
+                    "medium": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_248_186_Q90.jpg",
+                        "width": 248,
+                        "height": 186
+                    },
+                    "large": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F_R_1080_808_Q90.jpg",
+                        "width": 1080,
+                        "height": 808
+                    },
+                    "original": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y2b120008ihrhut0B7F.jpg",
+                        "width": null,
+                        "height": null
+                    },
+                    "cutImg": null,
+                    "wxShareImg": null
+                }
+            ],
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 3.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 5.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": [
+                "27688446"
+            ],
+            "locationId": 1212546,
+            "locationName": null,
+            "submitTime": "2010-08-02 20:39:49",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g298558-d1212546-r39684545-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD0zOTY4NDU0NQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "辽宁",
+            "attributionUrl": "Tourism-g297450-Liaoning-Vacations.html"
+        }
+    ],
+    "ratingAggs": [
+        {
+            "id": 5,
+            "name": "非常棒",
+            "num": 5.0
+        },
+        {
+            "id": 4,
+            "name": "很好",
+            "num": 25.0
+        },
+        {
+            "id": 3,
+            "name": "一般",
+            "num": 12.0
+        },
+        {
+            "id": 2,
+            "name": "差",
+            "num": 1.0
+        }
+    ],
+    "langAggs": [
+        {
+            "key": "all",
+            "name": "全部语言",
+            "count": 30,
+            "countString": "30"
+        },
+        {
+            "key": "zhCN",
+            "name": "中文简体",
+            "count": 42,
+            "countString": "42"
+        },
+        {
+            "key": "en",
+            "name": "英语",
+            "count": 1,
+            "countString": "1"
+        }
+    ],
+    "writeReviewPageUrl": "/UserReviewEdit-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+    "uploadPhotoPageUrl": "/PostPhotos-g298558-d1212546-Reviews-YunNan_Jin_Feng_Hotel-Kunming_Yunnan.html",
+    "Header": null
+}

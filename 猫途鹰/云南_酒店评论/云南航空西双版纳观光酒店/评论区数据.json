@@ -1,0 +1,1720 @@
+{
+    "responseStatus": null,
+    "pageInfo": {
+        "num": 1,
+        "size": 10,
+        "total": 19,
+        "hasNext": true,
+        "realTotal": 19
+    },
+    "details": [
+        {
+            "userReviewId": "94141850",
+            "userId": "B6AFC38974222B0747C6D118A1B1BA3D",
+            "memberInfo": {
+                "userId": "B6AFC38974222B0747C6D118A1B1BA3D",
+                "rating": 0,
+                "username": "53cool",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3n12000aq9ku6d18D1_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3n12000aq9ku6d18D1_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2013",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 4,
+                        "percent": 0.15,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 17,
+                        "percent": 0.63,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 6,
+                        "percent": 0.22,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 4,
+            "title": "一定要冬天来",
+            "content": "冬天的西双版纳，真是太舒服了。下了飞机就可以换上短信，到处都是一片绿。虽然酒店很好，不过我还是很希望体验民居，住在傣家寨子了。很满意！",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2012年12月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2013年04月19日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:24:36",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 5.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2013-04-18 15:44:43",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r94141850-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD05NDE0MTg1MA==&type=5",
+            "recommendTypes": null,
+            "attribution": "北京",
+            "attributionUrl": "Tourism-g294212-Beijing-Vacations.html"
+        },
+        {
+            "userReviewId": "81818136",
+            "userId": "4FFB770B43E2435D1E947FE2AC1D8B83",
+            "memberInfo": {
+                "userId": "4FFB770B43E2435D1E947FE2AC1D8B83",
+                "rating": 0,
+                "username": "skytouch2010",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "largeHeight": null,
+                "largeWeight": null,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "smallHeight": 150,
+                "smallWeight": 150,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 1,
+                        "percent": 0.03,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 3,
+                        "percent": 0.08,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 7,
+                        "percent": 0.19,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 12,
+                        "percent": 0.33,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 13,
+                        "percent": 0.36,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 5,
+            "title": "位置超好的酒店",
+            "content": "在市区中心，环境优美，离曼听公园步行15分钟。门口大街上晚七点后有旅游夜市，方便购物，楼下有泰餐财春青，美美咖啡，湘军厨房等。酒店房间够大，卫生间也大，服务不错，门口停车方便。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2011年12月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2012年11月26日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:23:42",
+            "photos": [
+                {
+                    "thumbnail": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5w12000alqv25jDC7F_R_60_60_Q90.jpg",
+                        "width": 60,
+                        "height": 60
+                    },
+                    "small": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5w12000alqv25jDC7F_R_120_120_Q90.jpg",
+                        "width": 120,
+                        "height": 120
+                    },
+                    "medium": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5w12000alqv25jDC7F_R_248_186_Q90.jpg",
+                        "width": 248,
+                        "height": 186
+                    },
+                    "large": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5w12000alqv25jDC7F_R_1080_808_Q90.jpg",
+                        "width": 1080,
+                        "height": 808
+                    },
+                    "original": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5w12000alqv25jDC7F.jpg",
+                        "width": null,
+                        "height": null
+                    },
+                    "cutImg": null,
+                    "wxShareImg": null
+                }
+            ],
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 3.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": [
+                "53489749"
+            ],
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2012-11-24 07:19:08",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r81818136-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD04MTgxODEzNg==&type=5",
+            "recommendTypes": null,
+            "attribution": "四川",
+            "attributionUrl": "Tourism-g297462-Sichuan-Vacations.html"
+        },
+        {
+            "userReviewId": "50048525",
+            "userId": "44823B8487182B678F4CBC1971DCD764",
+            "memberInfo": {
+                "userId": "44823B8487182B678F4CBC1971DCD764",
+                "rating": 0,
+                "username": "Guide53637214360",
+                "displayName": "穿prada的小妖",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "largeHeight": null,
+                "largeWeight": null,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "smallHeight": 150,
+                "smallWeight": 150,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 4,
+            "title": "物超所值的一家酒店",
+            "content": "酒店才装修不久，房间设施很不错，服务员的态度也很好，还帮我们削了菠萝呢，呵呵，放在冰箱里，每天还有水果赠送，出行也很方便，周边就有夜市和烧烤摊，去还有一家超市",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2011年06月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年07月11日",
+            "publicDeviceType": 2,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:21:38",
+            "photos": [
+                {
+                    "thumbnail": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y1312000am9kraaC6EB_R_60_60_Q90.jpg",
+                        "width": 60,
+                        "height": 60
+                    },
+                    "small": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y1312000am9kraaC6EB_R_120_120_Q90.jpg",
+                        "width": 120,
+                        "height": 120
+                    },
+                    "medium": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y1312000am9kraaC6EB_R_248_186_Q90.jpg",
+                        "width": 248,
+                        "height": 186
+                    },
+                    "large": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y1312000am9kraaC6EB_R_1080_808_Q90.jpg",
+                        "width": 1080,
+                        "height": 808
+                    },
+                    "original": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y1312000am9kraaC6EB.jpg",
+                        "width": null,
+                        "height": null
+                    },
+                    "cutImg": null,
+                    "wxShareImg": null
+                },
+                {
+                    "thumbnail": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5212000am9k76bF41D_R_60_60_Q90.jpg",
+                        "width": 60,
+                        "height": 60
+                    },
+                    "small": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5212000am9k76bF41D_R_120_120_Q90.jpg",
+                        "width": 120,
+                        "height": 120
+                    },
+                    "medium": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5212000am9k76bF41D_R_248_186_Q90.jpg",
+                        "width": 248,
+                        "height": 186
+                    },
+                    "large": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5212000am9k76bF41D_R_1080_808_Q90.jpg",
+                        "width": 1080,
+                        "height": 808
+                    },
+                    "original": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y5212000am9k76bF41D.jpg",
+                        "width": null,
+                        "height": null
+                    },
+                    "cutImg": null,
+                    "wxShareImg": null
+                }
+            ],
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 5.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 1,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": [
+                "34283205",
+                "34283206"
+            ],
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2011-07-08 14:48:55",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r50048525-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD01MDA0ODUyNQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "云南",
+            "attributionUrl": "Tourism-g297467-Yunnan-Vacations.html"
+        },
+        {
+            "userReviewId": "47750922",
+            "userId": "43923C7A9114E8647DFAD6E449B0FB43",
+            "memberInfo": {
+                "userId": "43923C7A9114E8647DFAD6E449B0FB43",
+                "rating": 0,
+                "username": "Sightseer09321274866",
+                "displayName": "孤独的326",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y4v12000aq885jz7590_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y4v12000aq885jz7590_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 4,
+            "title": "感觉还好啦",
+            "content": "服务方面很好，环境也很优雅。特别是餐饮部的一位迎宾员，她的服务态度很好，特别是她的微笑让我感觉很舒适、很亲切。我那次去的时候是2008年。可今年去入住的时候那位小姑娘已经早就辞职了。很遗憾没见到那位傣族小姑娘！",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2011年04月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年05月16日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:20:02",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 3.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 1,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2011-05-13 10:59:52",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r47750922-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00Nzc1MDkyMg==&type=5",
+            "recommendTypes": null,
+            "attribution": "云南",
+            "attributionUrl": "Tourism-g297467-Yunnan-Vacations.html"
+        },
+        {
+            "userReviewId": "47594345",
+            "userId": "2D404B8F4D73A8C398495AC3181C228B",
+            "memberInfo": {
+                "userId": "2D404B8F4D73A8C398495AC3181C228B",
+                "rating": 0,
+                "username": "y-1390",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "largeHeight": null,
+                "largeWeight": null,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "smallHeight": 150,
+                "smallWeight": 150,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.14,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 5,
+                        "percent": 0.71,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 0.14,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 4,
+            "title": "还行",
+            "content": "跟团住的 4星 地理位置还不错 特别是晚上酒店斜对面就有夜市 特色旅游品等 值得逛逛 酒店对面有几家海鲜酒楼 港式茶点不错 其他都有点贵 副楼有KTV  外包的 隔音很差 晚上有点吵 有游泳池但据说从来没开放过 遗憾 自助早餐还不错的",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2011年02月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年05月11日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:19:54",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 3.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 3.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 3.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 3.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2011-05-09 12:53:31",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r47594345-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00NzU5NDM0NQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "上海",
+            "attributionUrl": "Tourism-g308272-Shanghai-Vacations.html"
+        },
+        {
+            "userReviewId": "46628672",
+            "userId": "89507EB127811A987758AB77EB9BDA4A",
+            "memberInfo": {
+                "userId": "89507EB127811A987758AB77EB9BDA4A",
+                "rating": 0,
+                "username": "Stay35325689429",
+                "displayName": "soxuan璇",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y5r12000aq9kqsyEF68_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y5r12000aq9kqsyEF68_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 23,
+                        "percent": 1.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 5,
+            "title": "西双版纳",
+            "content": "西双版纳是个美丽的地方，傣族人民的聚集地，气候属于热带雨林气候，湿润，柔和，傣历新年泼水节很好玩，东西是傣味，很好吃",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2011年01月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年04月24日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:19:05",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 5.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 5.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 5.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 5.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 5.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 5.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2011-04-12 06:49:57",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r46628672-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00NjYyODY3Mg==&type=5",
+            "recommendTypes": null,
+            "attribution": "云南",
+            "attributionUrl": "Tourism-g297467-Yunnan-Vacations.html"
+        },
+        {
+            "userReviewId": "46472630",
+            "userId": "9E6C09960A94F5FC7FE35EFE91941267",
+            "memberInfo": {
+                "userId": "9E6C09960A94F5FC7FE35EFE91941267",
+                "rating": 0,
+                "username": "Compass08002233813",
+                "displayName": "史皓",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y2n12000aq9kr7b9A7E_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y2n12000aq9kr7b9A7E_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.33,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 0.33,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 0.33,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 3,
+            "title": "一般啊",
+            "content": "酒店环境、卫生条件都还好。但窗户的隔音效果太差，外面马路上的汽车声音很大。早餐太差，没什么东西，而且大多都凉了，去的晚，一些食品都没了。还有就是离夜市、商业购物区稍远。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年11月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年04月12日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:18:59",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 3.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 3.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 3.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 3.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 2.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 2.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2011-04-07 08:25:59",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r46472630-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00NjQ3MjYzMA==&type=5",
+            "recommendTypes": null,
+            "attribution": "陕西",
+            "attributionUrl": "Tourism-g498181-Shaanxi-Vacations.html"
+        },
+        {
+            "userReviewId": "44096186",
+            "userId": "219F45954A71576D04819DAE6054EA37",
+            "memberInfo": {
+                "userId": "219F45954A71576D04819DAE6054EA37",
+                "rating": 0,
+                "username": "shuxian1121",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "largeHeight": null,
+                "largeWeight": null,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3i120008dov3c3527A.png",
+                "smallHeight": 150,
+                "smallWeight": 150,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2011",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 1.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 3,
+            "title": "舒适",
+            "content": "来到酒店，环境卫生相当令人满意，服务很好，舒适的感觉令人相当满意，交通便利，环境清雅背倚澜沧江，尽览东方多瑙河两岸风光及掩映在槟榔树、凤尾竹下的傣家村",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年10月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年01月20日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:17:11",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 3.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2011-01-20 05:19:20",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r44096186-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00NDA5NjE4Ng==&type=5",
+            "recommendTypes": null,
+            "attribution": "广东",
+            "attributionUrl": "Tourism-g297411-Guangdong-Vacations.html"
+        },
+        {
+            "userReviewId": "44624367",
+            "userId": "CC76EF2121DC43F2A39239A2F850CD23",
+            "memberInfo": {
+                "userId": "CC76EF2121DC43F2A39239A2F850CD23",
+                "rating": 0,
+                "username": "58502323",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3z12000apfb46vDA68_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3z12000apfb46vDA68_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 3,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 4,
+            "title": "蛮安静的，服务效率高",
+            "content": "它的位置比较好，是几条路交汇的地方，周围比较方便，比较热闹，在房间里面还蛮安静的，没有什么影响，而且我住的楼层比较好，住在上面的话可以把景洪市基本上都可以看清楚，我觉得里面客人并不多，比较安静；服务还行，服务人员办理订退手续时，效率还是比较高的，因为人不多，一去基本上不用等很快就办好了。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2009年08月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年11月17日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:17:28",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2010-11-17 08:00:00",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r44624367-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00NDYyNDM2Nw==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "40062352",
+            "userId": "228DE6F3BCFB455CFF670288BD2266D1",
+            "memberInfo": {
+                "userId": "228DE6F3BCFB455CFF670288BD2266D1",
+                "rating": 0,
+                "username": "Traveler64926156944",
+                "displayName": "绿野仙猫",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y0w12000aq888cnD3A0_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y0w12000aq888cnD3A0_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 1,
+                        "percent": 0.33,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 2,
+                        "percent": 0.67,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 602767,
+                "rating": "3.9",
+                "reviewCount": "23",
+                "name": "云南航空西双版纳观光酒店",
+                "cityId": 528741,
+                "cityName": "景洪市",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y6j12000ahor5umB227_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "666100 云南省 景洪市 西双版纳旅游度假区勐龙路6号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html"
+            },
+            "rating": 4,
+            "title": "西双版纳比较好的酒店",
+            "content": "干净卫生.交通便利.在市区内.周围却是小区.比较安静..是旅游度假的休息的好去处.服务态度情切.让你有宾至如归的感觉.",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2008年08月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年08月18日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:13:48",
+            "photos": [
+                {
+                    "thumbnail": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y6d120008ihr41l84B6_R_60_60_Q90.jpg",
+                        "width": 60,
+                        "height": 60
+                    },
+                    "small": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y6d120008ihr41l84B6_R_120_120_Q90.jpg",
+                        "width": 120,
+                        "height": 120
+                    },
+                    "medium": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y6d120008ihr41l84B6_R_248_186_Q90.jpg",
+                        "width": 248,
+                        "height": 186
+                    },
+                    "large": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y6d120008ihr41l84B6_R_1080_808_Q90.jpg",
+                        "width": 1080,
+                        "height": 808
+                    },
+                    "original": {
+                        "url": "https://dimg04.c-ctrip.com/images/02Y6d120008ihr41l84B6.jpg",
+                        "width": null,
+                        "height": null
+                    },
+                    "cutImg": null,
+                    "wxShareImg": null
+                }
+            ],
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 5.0
+                },
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 5.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 5.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 5.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": [
+                "27866628"
+            ],
+            "locationId": 602767,
+            "locationName": null,
+            "submitTime": "2010-08-17 16:23:16",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g528741-d602767-r40062352-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00MDA2MjM1Mg==&type=5",
+            "recommendTypes": null,
+            "attribution": "云南",
+            "attributionUrl": "Tourism-g297467-Yunnan-Vacations.html"
+        }
+    ],
+    "ratingAggs": [
+        {
+            "id": 5,
+            "name": "非常棒",
+            "num": 3.0
+        },
+        {
+            "id": 4,
+            "name": "很好",
+            "num": 20.0
+        },
+        {
+            "id": 3,
+            "name": "一般",
+            "num": 3.0
+        },
+        {
+            "id": 1,
+            "name": "糟透了",
+            "num": 1.0
+        }
+    ],
+    "langAggs": [
+        {
+            "key": "all",
+            "name": "全部语言",
+            "count": 23,
+            "countString": "23"
+        },
+        {
+            "key": "zhCN",
+            "name": "中文简体",
+            "count": 19,
+            "countString": "19"
+        },
+        {
+            "key": "en",
+            "name": "英语",
+            "count": 5,
+            "countString": "5"
+        },
+        {
+            "key": "zhTW",
+            "name": "中文繁体",
+            "count": 2,
+            "countString": "2"
+        },
+        {
+            "key": "ja",
+            "name": "日本语",
+            "count": 1,
+            "countString": "1"
+        }
+    ],
+    "writeReviewPageUrl": "/UserReviewEdit-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+    "uploadPhotoPageUrl": "/PostPhotos-g528741-d602767-Reviews-Yunnan_Aviation_Sightseeing_Hotel_of_Xishuangbanna-Jinghong_Xishuangbanna_Dai_Autonomou.html",
+    "Header": null
+}

@@ -1,0 +1,656 @@
+{
+    "responseStatus": null,
+    "pageInfo": {
+        "num": 1,
+        "size": 10,
+        "total": 4,
+        "hasNext": false,
+        "realTotal": 4
+    },
+    "details": [
+        {
+            "userReviewId": "55289437",
+            "userId": "28322B1160654847305A03220F0F403C",
+            "memberInfo": {
+                "userId": "28322B1160654847305A03220F0F403C",
+                "rating": 0,
+                "username": "5054033",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y2q12000aq9knzh7784_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y2q12000aq9knzh7784_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 5,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1407601,
+                "rating": "3.5",
+                "reviewCount": "10",
+                "name": "云南航空迪庆观光酒店",
+                "cityId": 670561,
+                "cityName": "香格里拉县",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y1712000asua73y2F03_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "674400 云南省 香格里拉县 池慈卡街60号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g670561-d1407601-Reviews-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html"
+            },
+            "rating": 4,
+            "title": "餐饮做的比较好",
+            "content": "菜做的比较不错，比较好吃，给我留下很深的印象。空间大小还可以，比较干净，就是方便比较简单。整体房间装修是属于简单明了型的。早餐的比较好吃，位置还可以，还是比较优越的，交通比较便利。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2009年10月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年10月19日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:22:31",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1407601,
+            "locationName": null,
+            "submitTime": "2011-10-19 12:01:24",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g670561-d1407601-r55289437-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD01NTI4OTQzNw==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "50175955",
+            "userId": "CC76EF2121DC43F2A39239A2F850CD23",
+            "memberInfo": {
+                "userId": "CC76EF2121DC43F2A39239A2F850CD23",
+                "rating": 0,
+                "username": "58502323",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y3z12000apfb46vDA68_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y3z12000apfb46vDA68_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 3,
+                        "percent": 1.0,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1407601,
+                "rating": "3.5",
+                "reviewCount": "10",
+                "name": "云南航空迪庆观光酒店",
+                "cityId": 670561,
+                "cityName": "香格里拉县",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y1712000asua73y2F03_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "674400 云南省 香格里拉县 池慈卡街60号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g670561-d1407601-Reviews-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html"
+            },
+            "rating": 4,
+            "title": "高原上的酒店",
+            "content": "它是一个高原酒店，周边都是雪山，环境恶劣海拔三四千米的地方，如果跟一般的地方的酒店比起来，设施没有那么好，那个地方本来就没几个酒店，在那么高的地方有这么个地方住已经不错了；房间舒适度还是不错的，就是水不是很热，我喜欢洗烫一点的，洗澡有一点点冷，不是想要多高，就能多高；酒店很普通，谈不上多豪华，早餐也还行。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2009年07月",
+            "tripType": 8,
+            "tripTypeString": "结伴旅行",
+            "publishDate": "2011年07月11日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:21:42",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 1,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1407601,
+            "locationName": null,
+            "submitTime": "2011-07-11 13:14:05",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g670561-d1407601-r50175955-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD01MDE3NTk1NQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "未知",
+            "attributionUrl": ""
+        },
+        {
+            "userReviewId": "45856491",
+            "userId": "2407AF5683F1458F191BC68A3E905FF0",
+            "memberInfo": {
+                "userId": "2407AF5683F1458F191BC68A3E905FF0",
+                "rating": 0,
+                "username": "qixiang6",
+                "displayName": null,
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/02Y1712000aq9ktqvFB09_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/02Y1712000aq9ktqvFB09_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": false,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": "2010",
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 1,
+                        "percent": 0.5,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 1,
+                        "percent": 0.5,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1407601,
+                "rating": "3.5",
+                "reviewCount": "10",
+                "name": "云南航空迪庆观光酒店",
+                "cityId": 670561,
+                "cityName": "香格里拉县",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y1712000asua73y2F03_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "674400 云南省 香格里拉县 池慈卡街60号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g670561-d1407601-Reviews-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html"
+            },
+            "rating": 4,
+            "title": "基本可以",
+            "content": "服务态度不怎么好，可以跟当地的民风有关,在那里呆了三天，没有像沿海地区那咱随叫随到的，有用品不好，还可以换什么的。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": "2010年10月",
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2011年03月29日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:18:26",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": [
+                {
+                    "id": 190,
+                    "name": "睡眠质量",
+                    "num": 4.0
+                },
+                {
+                    "id": 11,
+                    "name": "舒适度",
+                    "num": 4.0
+                },
+                {
+                    "id": 12,
+                    "name": "服务",
+                    "num": 3.0
+                },
+                {
+                    "id": 13,
+                    "name": "性价比",
+                    "num": 4.0
+                },
+                {
+                    "id": 47,
+                    "name": "位置",
+                    "num": 4.0
+                },
+                {
+                    "id": 14,
+                    "name": "清洁",
+                    "num": 4.0
+                }
+            ],
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 6,
+            "pageType": 1,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1407601,
+            "locationName": null,
+            "submitTime": "2011-03-21 14:07:22",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g670561-d1407601-r45856491-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD00NTg1NjQ5MQ==&type=5",
+            "recommendTypes": null,
+            "attribution": "浙江",
+            "attributionUrl": "Tourism-g297468-Zhejiang-Vacations.html"
+        },
+        {
+            "userReviewId": "37690458",
+            "userId": null,
+            "memberInfo": {
+                "userId": null,
+                "rating": 0,
+                "username": "Tripadvisor用户",
+                "displayName": "Tripadvisor用户",
+                "email": "*",
+                "largeAvatar": "https://dimg04.c-ctrip.com/images/0101a12000e2x4cu9A0AC.png_R_1080_808_Q90.jpg",
+                "largeHeight": 808,
+                "largeWeight": 1080,
+                "smallAvatar": "https://dimg04.c-ctrip.com/images/0101a12000e2x4cu9A0AC.png_R_120_120_Q90.jpg",
+                "smallHeight": 120,
+                "smallWeight": 120,
+                "isMe": true,
+                "cityNumber": "0",
+                "city": null,
+                "shareInfo": null,
+                "levelInfo": "",
+                "joinTime": null,
+                "hasRelationShip": false,
+                "scoreCards": [
+                    {
+                        "score": 1,
+                        "number": 0,
+                        "percent": 0.0,
+                        "scoreDesc": "很差"
+                    },
+                    {
+                        "score": 2,
+                        "number": 4,
+                        "percent": 0.14,
+                        "scoreDesc": "较差"
+                    },
+                    {
+                        "score": 3,
+                        "number": 4,
+                        "percent": 0.14,
+                        "scoreDesc": "一般"
+                    },
+                    {
+                        "score": 4,
+                        "number": 16,
+                        "percent": 0.57,
+                        "scoreDesc": "较好"
+                    },
+                    {
+                        "score": 5,
+                        "number": 4,
+                        "percent": 0.14,
+                        "scoreDesc": "很棒"
+                    }
+                ]
+            },
+            "locationInfo": {
+                "id": 1407601,
+                "rating": "3.5",
+                "reviewCount": "10",
+                "name": "云南航空迪庆观光酒店",
+                "cityId": 670561,
+                "cityName": "香格里拉县",
+                "iconUrl": "https://dimg04.c-ctrip.com/images/02Y1712000asua73y2F03_R_1080_808_Q90.jpg",
+                "iconHeight": 808,
+                "iconWeight": 1080,
+                "address": "674400 云南省 香格里拉县 池慈卡街60号",
+                "typeId": 10023,
+                "favorite": false,
+                "pageUrl": "Hotel_Review-g670561-d1407601-Reviews-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html"
+            },
+            "rating": 2,
+            "title": "市中心没什么好酒店",
+            "content": "这里前两年改成了“香格里拉”,还把很高,空气清新,非常漂亮。很多中国人都来这里旅游,不过没有什么号的酒店。这家酒店算是比较好的了(离藏传佛教寺院很近的一家度假酒店据说不错)。\n房间面积不大,不过没什么问题,浴室不好。我只住了两天,就忍了,可要是多住几天就比较难受了。早餐的中餐也不好吃。",
+            "lang": "zhCN",
+            "hasTrans": false,
+            "translation": null,
+            "tripDate": null,
+            "tripType": 0,
+            "tripTypeString": "",
+            "publishDate": "2010年02月09日",
+            "publicDeviceType": 0,
+            "mcidType": 0,
+            "lastModifyTime": "2021-03-18 19:11:56",
+            "photos": null,
+            "replies": null,
+            "originReview": null,
+            "ratings": null,
+            "voteCount": 0,
+            "voted": false,
+            "favorite": false,
+            "shareCount": 0,
+            "locationReviewCount": 0,
+            "airlineFrom": null,
+            "airlineTo": null,
+            "airlineNumber": null,
+            "airlineLevel": null,
+            "providerId": 0,
+            "pageType": 4,
+            "memberId": 0,
+            "imageIds": null,
+            "locationId": 1407601,
+            "locationName": null,
+            "submitTime": "2010-05-09 07:19:22",
+            "status": 5,
+            "respStatus": null,
+            "cookies": null,
+            "toolQueue": 0,
+            "fingerprint": null,
+            "ip": null,
+            "userName": null,
+            "hasPhone": false,
+            "email": null,
+            "sameIpReview": null,
+            "sameTitleReview": null,
+            "sameContentReview": null,
+            "deviceType": null,
+            "replyToId": null,
+            "detailUrl": "/ShowUserReviews-g670561-d1407601-r37690458-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html",
+            "appUrl": "tripadvisor://wireless/h5?url=L3JuX3h0YXJvX21haW4vX2Nybl9jb25maWc/Q1JOTW9kdWxlTmFtZT10YV90YXJvX21haW4mQ1JOVHlwZT0xJmhpZGVEZWZhdWx0TG9hZGluZz1ZRVMmaW5pdGlhbFBhZ2U9Y29tbWVudERldGFpbCZzb3VyY2U9MSZyZXZpZXdJZD0zNzY5MDQ1OA==&type=5",
+            "recommendTypes": null,
+            "attribution": "北京",
+            "attributionUrl": "Tourism-g294212-Beijing-Vacations.html"
+        }
+    ],
+    "ratingAggs": [
+        {
+            "id": 5,
+            "name": "非常棒",
+            "num": 1.0
+        },
+        {
+            "id": 4,
+            "name": "很好",
+            "num": 5.0
+        },
+        {
+            "id": 3,
+            "name": "一般",
+            "num": 2.0
+        },
+        {
+            "id": 2,
+            "name": "差",
+            "num": 4.0
+        }
+    ],
+    "langAggs": [
+        {
+            "key": "all",
+            "name": "全部语言",
+            "count": 10,
+            "countString": "10"
+        },
+        {
+            "key": "zhCN",
+            "name": "中文简体",
+            "count": 4,
+            "countString": "4"
+        },
+        {
+            "key": "ja",
+            "name": "日本语",
+            "count": 3,
+            "countString": "3"
+        },
+        {
+            "key": "en",
+            "name": "英语",
+            "count": 2,
+            "countString": "2"
+        },
+        {
+            "key": "zhTW",
+            "name": "中文繁体",
+            "count": 1,
+            "countString": "1"
+        },
+        {
+            "key": "fr",
+            "name": "法语",
+            "count": 1,
+            "countString": "1"
+        },
+        {
+            "key": "nl",
+            "name": "荷兰语",
+            "count": 1,
+            "countString": "1"
+        }
+    ],
+    "writeReviewPageUrl": "/UserReviewEdit-g670561-d1407601-Reviews-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html",
+    "uploadPhotoPageUrl": "/PostPhotos-g670561-d1407601-Reviews-Yunnan_Airline_Aviation_Sightseeing_Hotel_Diqing-Shangri_La_County_Diqing_Tibetan_Auto.html",
+    "Header": null
+}

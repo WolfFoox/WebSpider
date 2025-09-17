@@ -1,0 +1,10 @@
+https://movie.douban.com/subject/36742579/请求成功，响应状态为:200;
+https://movie.douban.com/subject/35883131/请求成功，响应状态为:200;
+https://movie.douban.com/subject/30429388/请求成功，响应状态为:200;
+https://movie.douban.com/subject/37309928/请求成功，响应状态为:200;
+https://movie.douban.com/subject/36247731/请求成功，响应状态为:200;
+https://movie.douban.com/subject/36471252/请求成功，响应状态为:200;
+https://movie.douban.com/subject/36737061/请求成功，响应状态为:200;
+https://movie.douban.com/subject/36465394/请求成功，响应状态为:200;
+https://movie.douban.com/subject/36999840/请求成功，响应状态为:200;
+https://movie.douban.com/subject/35342548/请求成功，响应状态为:200;

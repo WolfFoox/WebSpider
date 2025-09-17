@@ -1,0 +1,4 @@
+https://tieba.baidu.com/f?kw=%E5%B0%8F%E8%AF%B4&ie=utf-8&pn=0请求成功，响应状态为:200;
+https://tieba.baidu.com/f?kw=%E5%B0%8F%E8%AF%B4&ie=utf-8&pn=50请求成功，响应状态为:200;
+https://tieba.baidu.com/f?kw=%E5%B0%8F%E8%AF%B4&ie=utf-8&pn=100请求成功，响应状态为:200;
+https://tieba.baidu.com/f?kw=%E5%B0%8F%E8%AF%B4&ie=utf-8&pn=150请求成功，响应状态为:200;
