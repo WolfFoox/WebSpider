@@ -1,8 +1,9 @@
-import requests, json
+import requests, json,threading
 
 
 def get_iplist()->list:
     url = 'https://www.proxy-list.download/api/v2/get?l=en&t=http'
+    # url = 'https://www.proxy-list.download/HTTP'
     headers = {
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36'
     }
@@ -33,8 +34,14 @@ def check_ip(ip:str):
 
 ip_list = get_iplist()
 ip_list2 = ip_list.copy()
+threads = []
 for ip in ip_list2:
-    check_ip(ip)
+    t = threading.Thread(target=check_ip,args = (ip,))
+    threads.append(t)
+    t.start()
+
+for i in threads:
+    i.join()
 
 # 存储器：把有效的代理ip存储到本地文件中
 with open(r'ip_list.txt','a+', encoding='utf-8') as f:
