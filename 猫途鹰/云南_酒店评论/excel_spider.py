@@ -1,4 +1,4 @@
-import time,random,json,requests,sys, os, openpyxl
+import time,random,json,requests,sys, os, openpyxl, threading
 import pandas as pd
 from openpyxl.styles import Font,PatternFill,Alignment
 from lxml import etree
@@ -67,9 +67,14 @@ def get_data(url:int,url_name:str):
 
 if __name__ == '__main__':
     url_namelist,locationIdlist = get_urlnamelist_totallist()
+    threads = []
     for url_name, id in zip(url_namelist,locationIdlist): # 不同酒店
-        get_data(url = id,url_name=url_name)
-        time.sleep(random.randint(1,3))
+        t = threading.Thread(target=get_data,kwargs = {'url' : id,'url_name':url_name})
+        threads.append(t)
+        t.start()
+        # time.sleep(random.randint(1,3))
+    for i in threads:
+        i.join()
     wt._save()
     wb = openpyxl.load_workbook(filename)
     sheet1 = wb['云南酒店网址信息备份']
